@@ -57,7 +57,6 @@ node server.js
 
 ## 📸 Screenshot
 
-(Add your project screenshot here)
 
 ## 👨‍💻 Author
 
